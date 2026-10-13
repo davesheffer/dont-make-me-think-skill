@@ -1,0 +1,10 @@
+{
+  "name": "dont-make-me-think",
+  "description": "Usability lens for app design, review, UI copy and DIY usability testing, built on Steve Krug's Don't Make Me Think plus Nielsen heuristics, Laws of UX, NN/g research and WCAG 2.2.",
+  "version": "1.0.0",
+  "author": { "name": "davesheffer" },
+  "homepage": "https://github.com/davesheffer/dont-make-me-think-skill",
+  "repository": "https://github.com/davesheffer/dont-make-me-think-skill",
+  "license": "MIT",
+  "keywords": ["usability", "ux", "krug", "heuristics", "ui-copy", "usability-testing", "rtl", "accessibility"]
+}

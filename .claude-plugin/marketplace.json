@@ -1,0 +1,14 @@
+{
+  "name": "dont-make-me-think",
+  "description": "Marketplace for the dont-make-me-think usability skill",
+  "owner": { "name": "davesheffer" },
+  "plugins": [
+    {
+      "name": "dont-make-me-think",
+      "description": "Usability lens for app design, review, UI copy and DIY usability testing (Krug + core UX canon).",
+      "version": "1.0.0",
+      "source": "./",
+      "author": { "name": "davesheffer" }
+    }
+  ]
+}
